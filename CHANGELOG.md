@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.66.2](https://github.com/googleapis/sdk-platform-java/compare/v2.66.1...v2.66.2) (2026-02-09)
+
+
+### Dependencies
+
+* Upgrade grpc to 1.76.3 ([#4106](https://github.com/googleapis/sdk-platform-java/issues/4106)) ([c6555f5](https://github.com/googleapis/sdk-platform-java/commit/c6555f5f0cd85683db76394271e1f57989cac7d0))
+
 ## [2.66.1](https://github.com/googleapis/sdk-platform-java/compare/v2.66.0...v2.66.1) (2026-02-04)
 
 
